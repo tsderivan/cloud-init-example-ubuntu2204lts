@@ -1,0 +1,7 @@
+virtualbox
+cloud-utils
+whois
+sample cloud.cfg from ubuntu server 22.04 LTS
+
+
+
