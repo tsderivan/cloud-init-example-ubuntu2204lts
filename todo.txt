@@ -1,0 +1,16 @@
+Used in this project
+VirtualBox
+ubuntu cloud image https://cloud-images.ubuntu.com/
+
+
+
+todo:
+eject cdrom from virtual machine on 1st boot
+
+auto install virtualbox guest additions
+
+networking
+
+
+ 
+ 
