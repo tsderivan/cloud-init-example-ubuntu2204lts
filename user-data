@@ -170,6 +170,10 @@ apt_upgrade: true
 # Install packages
 packages:
   - git
+  - tmux
 
 bootcmd: date > /etc/birth_certificate
-#bootcmd: execute a bootstrap script, install guest additions, etc
+
+
+
+
